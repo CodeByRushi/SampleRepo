@@ -19,6 +19,7 @@ public class Application {
 		
 		System.out.println("Changes made on local-cloud develop");
 
+		SOP("Changes in Master");
 		
 
 	}
