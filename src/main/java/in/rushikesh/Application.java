@@ -17,7 +17,7 @@ public class Application {
 
 		System.out.println("Changes made on cloud master.");
 
-		System.out.println("Changes made on local-cloud develop and going to merge");
+		
 
 	}
 
