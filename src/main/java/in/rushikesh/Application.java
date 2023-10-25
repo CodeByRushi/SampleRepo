@@ -16,6 +16,8 @@ public class Application {
 		System.out.print("Task 101 is ongoing");
 
 		System.out.println("Changes made on cloud master.");
+		
+		System.out.println("Changes made on local-cloud develop");
 
 		
 
